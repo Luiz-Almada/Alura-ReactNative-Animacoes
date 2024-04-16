@@ -6,14 +6,17 @@ const itens = [
   {
     id: '1',
     imagem: card1,
+    timeWait: 2000,
   },
   {
     id: '2',
     imagem: card2,
+    timeWait: 4000,
   },
   {
     id: '3',
     imagem: card3,
+    timeWait: 6000,
   },
 ];
 
